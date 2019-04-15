@@ -1,0 +1,5 @@
+julia
+jupyterlab
+pandas
+pyarrow
+python=3.7
