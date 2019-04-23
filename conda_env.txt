@@ -1,5 +1,9 @@
+dask
+fastparquet
 julia
 jupyterlab
+libmagic
+openpyxl
 pandas
 postgresql
 psycopg2
@@ -7,3 +11,4 @@ pyarrow
 python=3.7
 sqlalchemy
 sqlalchemy-utils
+xlrd
